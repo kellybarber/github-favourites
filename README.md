@@ -1,5 +1,6 @@
 # github-favourites
-An app that allows accessing, displaying, and favouriting repository data from the github api using React, Redux, and GraphQl
+An app that allows accessing, displaying, and favouriting repository data from the github api using React, Redux, and GraphQl.
+A fully working version of the app can also be found at: https://my-github-favourites.herokuapp.com/
 
 Download or Clone the project to your local machine and then install the dependencies.
 
@@ -12,7 +13,7 @@ You will need to create a .env file in the root directory and add a github token
 In you .env file, add the token:
 
 ```
-GITHUB_TOKEN=[Your-token-here]
+GITHUB_TOKEN=Your-token-here
 ```
 
 Now run the project from the command line using the webpack dev server:
@@ -20,7 +21,5 @@ Now run the project from the command line using the webpack dev server:
 ```
 npm run dev-server
 ```
-
-A fully working version of the app can also be found at: https://my-github-favourites.herokuapp.com/
 
 Happy repository fetching!
