@@ -21,4 +21,6 @@ Now run the project from the command line using the webpack dev server:
 npm run dev-server
 ```
 
+A fully working version of the app can also be found at: https://my-github-favourites.herokuapp.com/
+
 Happy repository fetching!
